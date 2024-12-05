@@ -56,3 +56,19 @@ body {
     width:800px;
     padding-bottom:80px;
 }
+.relancer {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #001367;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    transition: background-color 0.3s;
+}
+
+.relancer:hover {
+    background-color: #0056b3;
+}
